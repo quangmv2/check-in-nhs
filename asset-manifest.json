@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9261951a.css",
-    "main.js": "/static/js/main.7a55cc15.js",
-    "static/js/787.c686fa90.chunk.js": "/static/js/787.c686fa90.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.9261951a.css.map": "/static/css/main.9261951a.css.map",
-    "main.7a55cc15.js.map": "/static/js/main.7a55cc15.js.map",
-    "787.c686fa90.chunk.js.map": "/static/js/787.c686fa90.chunk.js.map"
+    "main.css": "/check-in-nhs/static/css/main.9261951a.css",
+    "main.js": "/check-in-nhs/static/js/main.fea4f565.js",
+    "static/js/787.c686fa90.chunk.js": "/check-in-nhs/static/js/787.c686fa90.chunk.js",
+    "static/media/logo.svg": "/check-in-nhs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/check-in-nhs/index.html",
+    "main.9261951a.css.map": "/check-in-nhs/static/css/main.9261951a.css.map",
+    "main.fea4f565.js.map": "/check-in-nhs/static/js/main.fea4f565.js.map",
+    "787.c686fa90.chunk.js.map": "/check-in-nhs/static/js/787.c686fa90.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9261951a.css",
-    "static/js/main.7a55cc15.js"
+    "static/js/main.fea4f565.js"
   ]
 }
