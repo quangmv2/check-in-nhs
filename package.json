@@ -1,6 +1,7 @@
 {
   "name": "check-in-nhs",
   "version": "0.1.0",
+  "homepage": "https://quangmv2.github.io/check-in-nhs/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -21,7 +22,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://quangmv2.github.io/check-in-nhs/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
